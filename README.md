@@ -61,9 +61,9 @@ Liste aqui os requisitos necessários para executar seu projeto. Por exemplo:
 
 Para acessar a página de administração, crie um super usuário:
 
-```
-python manage.py createsuperuser
-```
+   ```
+   python manage.py createsuperuser
+   ```
 
 E acesse http://localhost:8000/admin
 
@@ -71,9 +71,9 @@ E acesse http://localhost:8000/admin
 
 Para povoar o banco de dados, execute o script de raspagem de dados:
 
-```
-python manage.py runscript shell
-```
+   ```
+   python manage.py runscript shell
+   ```
 
 
 # **MIT License**
