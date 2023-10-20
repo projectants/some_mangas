@@ -1,12 +1,12 @@
 # **Some-Mangas**
 
-O projeto consiste em um e-reader de mangás, onde o backend irá prover fotos de páginas advindas de script de raspagem de dados, onde serão cadastrados diretamente na base de dados do projeto, por meio dos models do Django, o frontend será feito em React assim que todos os impecilhos do backend froem resolvidos, atualmente o projeto já lista todos os capítulos e cada página nesse capítulo, mas ao cadastrar na base de tem uma lentidão sem precedentes, e com o script de cadastro de dados ocorre a desordenação das páginas.
+O projeto consiste em um e-reader de mangás, onde o backend irá fornecer imagens das páginas provenientes de um script de raspagem de dados. Essas imagens serão cadastradas diretamente na base de dados do projeto por meio dos modelos do Django. O frontend será desenvolvido em React, uma vez que todas as questões do backend forem resolvidas.
+
+Atualmente, o projeto já é capaz de listar todos os capítulos e cada página dentro desses capítulos. No entanto, ao realizar o cadastro na base de dados, temos enfrentado problemas de desempenho notáveis. Além disso, o script de cadastro de dados está resultando em desordem nas páginas.
 
 <br>
 
 ## Requisitos
-
-Liste aqui os requisitos necessários para executar seu projeto. Por exemplo:
 
 - Python >= 3.8
 - pip
